@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Jo! I'm a Financial Engineering student building expertise in mathematics, statistics, programming, and quantitative finance.
 
-<!--
-**liyyy06/liyyy06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Current Focus
+Building strong foundations in mathematics, probability, and statistics
+Developing Python and data analysis skills
+Exploring: Mathematics, Data & Financial Markets
 
-Here are some ideas to get you started:
+🔬 Active Projects
+Financial Data Analysis — Exploring Financial Market Data with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack [Currently learning]
+Python
+NumPy
+Pandas
+Jupyter Notebook
+Git & GitHub
+
+[Coming next]
+SciPy
+SQL
+Statistical Modeling
+Time Series Analysis
+
+🗺️ Roadmap Mathematics → Statistics → Programming → Finance → Research
+I'm exploring the intersection of mathematics, data, programming, and financial markets through learning and practical projects.
+
+📫 Reach me 
+Email : jocelynliyy06@gmail.com
